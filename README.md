@@ -1,7 +1,7 @@
 <h1 align="center">Salut! 👋, je suis benoit Auger-Dubois</h1>
 <h3 align="center">Étudiant passionné & Developpeur Fullstack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benoitad&label=Profile%20views&color=0e75b6&style=flat" alt="benoitad" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=benoitad&label=Profile%20views&color=0e75b6&style=flat" alt="benoitad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
