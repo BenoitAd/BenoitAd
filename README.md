@@ -1,4 +1,10 @@
-### Hi there 👋
+### Salutation ! 👋
+### Github de Benoit Auger-Dubois, Étudiant & Developpeur Fullstack
+
+- Situation :student: : 1ère année Master Of Science a l'EPSI de Nantes
+- Diplome 📚 : Licence profesionnelle MIAR a l'IUT de Nantes (2022-2023)
+- Technologies favorites :technologist: : Java & Spring, Javascript & React, Kotlin (Android), CSS & Tailwind, SQL
+
 
 <!--
 **BenoitAd/BenoitAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
