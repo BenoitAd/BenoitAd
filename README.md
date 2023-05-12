@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenue sur mon GitHub ! 👋</h1>
 <h3 align="center">Étudiant passionné & Developpeur Fullstack</h3>
 
-#### Bonjour, je suis Benoit Auger-Dubois et je suis dans le domaine de l'informatique depuis plus de 3 ans maintenant. <br/> Mon GitHub est une vitrine de mes réalisations, où vous pourrez découvrir mes projets personnels et mes projets de cours, seul ou en équipe. <br/> J'aime travailler sur des projets qui me permettent de progresser en tant que développeur et j'apprécie particulièrement les défis techniques !
+#### Bonjour, je suis Benoit Auger-Dubois et je travaille dans le domaine de l'informatique depuis plus de 3 ans maintenant. <br/> Mon GitHub est une vitrine de mes réalisations, où vous pourrez découvrir mes projets personnels et mes projets de cours, seul ou en équipe. <br/> J'aime travailler sur des projets qui me permettent de progresser en tant que développeur et j'apprécie particulièrement les défis techniques !
 
 ### Présentation :
 - Situation :student: : 1ère année Master Of Science a l'EPSI de Nantes
